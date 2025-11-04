@@ -1,4 +1,4 @@
-# BR_tdmt.tar.gz
+## BR_tdmt.tar.gz
 2013 Mw 4.9 Baekryoeng Island earthquake
 
 **Son.GeoJ.V19.P295.2015.pdf**
