@@ -1,4 +1,4 @@
-## BR_major8tdmt.tar.gz
+## BR_tdmt.tar.gz
 2013 Mw 4.9 Baekryoeng Island earthquake
 
 ## PH_major8tdmt.tar.gz
