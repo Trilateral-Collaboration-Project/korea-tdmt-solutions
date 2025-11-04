@@ -1,6 +1,9 @@
 # BR_tdmt.tar.gz
 2013 Mw 4.9 Baekryoeng Island earthquake
 
+**Son.GeoJ.V19.P295.2015.pdf**
+Reference.
+
 
 ## GJ_major8tdmt.tar.gz
 2016 Mw 5.4 Gyeongju earthquake
@@ -34,7 +37,7 @@ TDMT solutions in GMT `psmeca -Sm` format (Figure 1b in Son et al., 2018).
 **GJ_major8tdmt.pdf**  
 Plot of the eight TDMT focal mechanisms.
 
-**Son.BSSA.V108.P210.2018**
+**Son.BSSA.V108.P210.2018.pdf**
 Reference.
 
 
