@@ -1,4 +1,4 @@
-## BR_tdmt.tar.gz
+# BR_tdmt.tar.gz
 2013 Mw 4.9 Baekryoeng Island earthquake
 
 
@@ -33,6 +33,9 @@ TDMT solutions in GMT `psmeca -Sm` format (Figure 1b in Son et al., 2018).
 
 **GJ_major8tdmt.pdf**  
 Plot of the eight TDMT focal mechanisms.
+
+**Son.BSSA.V108.P210.2018**
+Reference.
 
 
 ## PH_major8tdmt.tar.gz
